@@ -1,0 +1,21 @@
+{
+  "name": "employee-crud-api",
+  "version": "1.0.0",
+  "description": "Aplicação CRUD API em Node.js",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredsalas87/employee-crud-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredsalas87/employee-crud-api/issues"
+  },
+  "homepage": "https://github.com/fredsalas87/employee-crud-api#readme",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
