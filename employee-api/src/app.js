@@ -8,6 +8,7 @@ const express = require('express');
 const cors = require('cors');
 
 const app = express();
+// const app = require('fastify')({ logger: true });
 
 // ==> Rotas da API (Employee):
 const index = require('./routes/index');
