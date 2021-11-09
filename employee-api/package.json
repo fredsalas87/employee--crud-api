@@ -44,8 +44,6 @@
     "eslint-friendly-formatter": "^3.0.0",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
-    "fastify": "^3.23.1",
-    "fastify-file-upload": "^3.0.1",
     "pg": "^8.7.1"
   }
 }
